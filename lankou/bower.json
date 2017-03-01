@@ -1,0 +1,19 @@
+{
+  "name": "lankou",
+  "version": "0.1.0",
+  "authors": [
+    "dreamsunshine"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "static",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.4"
+  }
+}
